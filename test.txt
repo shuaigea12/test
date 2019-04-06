@@ -1,0 +1,13 @@
+ctrl + T : 调整图片大小，旋转，回车确认
+Alt + 拖动 ： 复制图层
+ctrl + J : 复制图层(重叠在一起)
+F7 : 打开图层面板
+ctrl + 鼠标左键 ： 选择图层
+ctrl + G / ctrl + shift + G : 图层分组（先选中多个图层） 
+ctrl + [ : 向下移动图层
+ctrl + ] : 向上移动图层
+ctrl + shift + [ : 移动到底端
+ctrl + shift + ] : 移动到顶端
+shift + 拖动 ： 按照某个方向直线拖动
+ctrl + z ： 撤销一步
+ctrl + alt + z : 撤销多步
